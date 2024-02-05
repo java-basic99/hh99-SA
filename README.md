@@ -14,3 +14,5 @@ ENFP
 ISTJ
 # 박용운
 INTJ
+
+git conflict 내보기

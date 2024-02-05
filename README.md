@@ -13,3 +13,4 @@ ENFP
 ISTJ
 # 박용운
 INTJ
+## Java 개발 초보, 열심히 공부하는 중
